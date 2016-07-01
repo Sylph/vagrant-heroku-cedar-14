@@ -9,6 +9,6 @@ Based off project: https://github.com/kiere/vagrant-heroku-cedar-14
 * Rubygems (currently 2.5.1)
 * Imagemagick
 * Phantomjs (for poltergeist gem)
-//* Padrino
+* Padrino (latest) and activesupport (latest)
 
 This box is published in Atlas as 'Aletheia/heroku-cedar-14-padrino' and can be used simply by adding `config.vm.box = 'Aletheia/heroku-cedar-14-padrino'` to your `Vagrantfile`.
