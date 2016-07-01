@@ -1,6 +1,6 @@
 # Vagrant Heroku Cedar-14 Box
 
-Based off project: https://github.com/kiere/vagrant-heroku-cedar-14
+Forked from: https://github.com/kiere/vagrant-heroku-cedar-14
 
 * Ubuntu 14.04
 * PosgreSQL 9.4
